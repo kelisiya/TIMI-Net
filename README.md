@@ -1,1 +1,2 @@
-# Tripartite Information Mining and Integration for Image Matting
+# ICCV2021-TIMI-Net:Tripartite Information Mining and Integration for Image Matting
+Code is coming soon...
