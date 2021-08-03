@@ -11,7 +11,7 @@ This repository contains the code, models, datasets, sample results of benchmark
 >Code is coming soon...
 
 ## Statement
-This project is only for research purpose. For any other questions please feel free to contact us.
+This project is only for research purpose. For any other questions, please feel free to contact us.
 
 ## BibTex
 If you use this code for your research, please cite our paper.
