@@ -9,3 +9,7 @@ This repository contains the code, models, datasets, sample results of benchmark
 >
 ><h3><strong><i>🚀 News</i></strong></h3>
 >Code is coming soon...
+
+## Statement
+This project is only for research purpose. For any other questions please contact us by email.
+
