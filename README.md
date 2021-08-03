@@ -11,5 +11,17 @@ This repository contains the code, models, datasets, sample results of benchmark
 >Code is coming soon...
 
 ## Statement
-This project is only for research purpose. For any other questions please contact us by email.
+This project is only for research purpose. For any other questions please feel free to contact us.
+
+## BibTex
+If you use this code for your research, please cite our paper.
+
+ ```
+@inproceedings{liu2021tripartite,
+  title={Tripartite Information Mining and Integration for Image Matting},
+  author={Liu, Yuhao and Xie, Jiake and Shi, Xiao and Qiao, Yu and Huang, Yujie and Tang, Yong and Yang, Xin},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year={2021}
+}
+ ```
 
