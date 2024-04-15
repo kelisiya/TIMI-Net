@@ -1,6 +1,8 @@
 ## Tripartite Information Mining and Integration for Image Matting (Timi-Net)
 
 *Yuhao Liu\*, Jiake Xie\*, Xiao Shi, Yu Qiao, Yujie Huang, Yong Tang, Xin Yang*
+
+
 This is the official PyTorch implementation of our paper [**Tripartite Information Mining and Integration for Image Matting**](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Tripartite_Information_Mining_and_Integration_for_Image_Matting_ICCV_2021_paper.pdf) that has been accepted to 2021 IEEE/CVF International Conference on Computer Vision (ICCV 2021).
 ***
 
